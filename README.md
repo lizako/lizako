@@ -3,7 +3,7 @@
 - In my free time, I mostly like to read and write (Andy Weir, anyone?).
 - 👀 I’m interested in learning about every area of technology, especially full-stack software engineering, data analysis, and DevOps!
 - 🌱 I’m currently learning Python. This year, I am taking Calculus One and Intro to C++. In high school, my relevant coursework included Calculus AB and Computer Science Java. 
-- 💞️ I’m looking for internships taking place either remotely or within the New York City area during the summer of 2024.
+- 💞️ I’m looking for internships during the summer of 2024, preferably in the New York City area but I am also open to anything remote or located elsewhere!
 - 📫 How to reach me: lizamichellekotlyarevskiy@gmail.com
 
 <!---
